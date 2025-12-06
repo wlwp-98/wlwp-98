@@ -45,15 +45,15 @@
 
 <div align="center">
   <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: nowrap;">
-    <div style="text-align: center; flex: 0 0 auto;">
+    <div style="text-align: center; flex: 0 0 auto; width: 200px;">
       <img src="https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=400&h=300&fit=crop" width="200" height="150" alt="编程" style="border-radius: 8px; object-fit: cover;" />
       <p style="margin: 8px 0 0 0;">💻 编程</p>
     </div>
-    <div style="text-align: center; flex: 0 0 auto;">
+    <div style="text-align: center; flex: 0 0 auto; width: 200px;">
       <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=400&h=300&fit=crop" width="200" height="150" alt="游戏" style="border-radius: 8px; object-fit: cover;" />
       <p style="margin: 8px 0 0 0;">🎮 游戏</p>
     </div>
-    <div style="text-align: center; flex: 0 0 auto;">
+    <div style="text-align: center; flex: 0 0 auto; width: 200px;">
       <img src="https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop" width="200" height="150" alt="音乐" style="border-radius: 8px; object-fit: cover;" />
       <p style="margin: 8px 0 0 0;">🎵 音乐</p>
     </div>
