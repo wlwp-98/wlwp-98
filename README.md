@@ -1,4 +1,9 @@
-# 👋 你好，我是 wlwp
+<!-- 顶部动图横幅 -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33ai01UfQN36o/giphy.gif" alt="Coding Banner" width="100%" height="200" style="object-fit: cover; border-radius: 8px;" />
+</p>
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> 你好，我是 wlwp
 
 ## 🚀 关于我
 
