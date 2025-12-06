@@ -1,6 +1,6 @@
-<!-- 顶部动图横幅 -->
+<!-- 顶部意境横幅 -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33ai01UfQN36o/giphy.gif" alt="Coding Banner" width="100%" height="200" style="object-fit: cover; border-radius: 8px;" />
+  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200&h=300&fit=crop" alt="Digital Art Banner" width="100%" height="250" style="object-fit: cover; border-radius: 8px;" />
 </p>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> 你好，我是 wlwp
@@ -44,18 +44,18 @@
 ## � 我的兴趣
 
 <div align="center">
-  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-    <div style="text-align: center;">
-      <img src="https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=400&h=300&fit=crop" width="200" height="150" alt="编程" style="border-radius: 8px;" />
-      <p>💻 编程</p>
+  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: nowrap;">
+    <div style="text-align: center; flex: 0 0 auto;">
+      <img src="https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=400&h=300&fit=crop" width="200" height="150" alt="编程" style="border-radius: 8px; object-fit: cover;" />
+      <p style="margin: 8px 0 0 0;">💻 编程</p>
     </div>
-    <div style="text-align: center;">
-      <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=400&h=300&fit=crop" width="200" height="150" alt="游戏" style="border-radius: 8px;" />
-      <p>🎮 游戏</p>
+    <div style="text-align: center; flex: 0 0 auto;">
+      <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=400&h=300&fit=crop" width="200" height="150" alt="游戏" style="border-radius: 8px; object-fit: cover;" />
+      <p style="margin: 8px 0 0 0;">🎮 游戏</p>
     </div>
-    <div style="text-align: center;">
-      <img src="https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop" width="200" height="150" alt="音乐" style="border-radius: 8px;" />
-      <p>🎵 音乐</p>
+    <div style="text-align: center; flex: 0 0 auto;">
+      <img src="https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop" width="200" height="150" alt="音乐" style="border-radius: 8px; object-fit: cover;" />
+      <p style="margin: 8px 0 0 0;">🎵 音乐</p>
     </div>
   </div>
 </div>
